@@ -20,7 +20,7 @@ document.write('<div style="white-space: pre; text-align: center;"><div class="c
 }else{
   // DESKTOP
   
-document.write('<img src="/img/bust.png" style="width:30%;height:30%;display:block;margin-left:auto;margin-right:auto;" alt="bustz">')
+document.write('<img src="/img/bust.png" style="width:40%;height:40%;display:block;margin-left:30%;margin-right:auto;" alt="bustz">')
 
 
     
