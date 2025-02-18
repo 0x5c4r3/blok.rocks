@@ -20,7 +20,7 @@ document.write('<div style="white-space: pre; text-align: center;"><div class="c
 }else{
   // DESKTOP
   
-document.write('<div style="white-space: pre; text-align: center;"><div class="center" style="color:red;display:inline;text-align: center;">   <img source="/img/bust.png">   </div>\n<div class="center" style="color:red;display:inline;text-align: center;">Fuck that, grab a laptop...</div></div>\n')
+<img src="/img/bust.png" style="width:50%;height:50%;display:block;margin-left:auto;margin-right:auto;" alt="bustz">
 
 
     
