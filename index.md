@@ -20,7 +20,10 @@ document.write('<div style="white-space: pre; text-align: center;"><div class="c
 }else{
   // DESKTOP
   
-  
+document.write('<div style="white-space: pre; text-align: center;"><div class="center" style="color:red;display:inline;text-align: center;">   <img source="/img/bust.png">   </div>\n<div class="center" style="color:red;display:inline;text-align: center;">Fuck that, grab a laptop...</div></div>\n')
+
+
+    
                                                                                                     
 /*                                                                                                    
 document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">                            *******                                                             *,\n');
@@ -46,7 +49,7 @@ document.write('                                          &</div><div style="col
 document.write('                                           </div><div style="color:white;display:inline;">@</div><div style="color:red;display:inline;">,  .*****..,****.,***   *******                    \n');
 document.write('                                                  ********.***  *  ,* *.*.                      \n');
 document.write('                                                       ****** **  * **                    \n</div></div style="white-space: pre;"></br>');
-*/                                                            
+                                                        
   
 document.write('<div style="white-space: pre;"><div class="center" style="color:white;display:inline;">                                                              :....:::::+%####@@%                     </div>\n')
 document.write('<div style="white-space: pre;"><div class="center" style="color:white;display:inline;">                                                  =:::::::--------------+@#####%@%%                   </div>\n')
@@ -73,7 +76,7 @@ document.write('<div style="white-space: pre;"><div class="center" style="color:
 document.write('<div style="white-space: pre;"><div class="center" style="color:white;display:inline;">                                   %@@@@@@%%%%%%%%%%%%%%@@@@@@@@@@@%#*****+==-:.         </div>\n')             
 document.write('<div style="white-space: pre;"><div class="center" style="color:white;display:inline;">                                   @@@@%%@@@@@@@@@@@@@@@@%%#*+++++=--       </div>\n')                          
 document.write('<div style="white-space: pre;"><div class="center" style="color:white;display:inline;">                                   @@@@@@@@@@@@%@@%#*+-        </div>')                                       
-
+*/
 }
 </script>
 
