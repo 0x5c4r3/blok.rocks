@@ -73,7 +73,6 @@ document.write('<div style="white-space: pre;"><div class="center" style="color:
 document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">          %@@@@@@%%%%%%%%%%%%%%@@@@@@@@@@@%#*****+==-:.         </div>\n')             
 document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">          @@@@%%@@@@@@@@@@@@@@@@%%#*+++++=--       </div>\n')                          
 document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">          @@@@@@@@@@@@%@@%#*+-        </div>')                                       
-document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">             :--</div>\n')
 
 }
 </script>
