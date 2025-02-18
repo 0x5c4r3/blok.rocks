@@ -22,7 +22,7 @@ document.write('<div style="white-space: pre; text-align: center;"><div class="c
   
   
                                                                                                     
-                                                                                                    
+/*                                                                                                    
 document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">                            *******                                                             *,\n');
 document.write('                           ....****.                               ,** *****.                 .** \n');
 document.write('                         , .... *  *.                           **** *** * ,**                ,** \n');
@@ -38,7 +38,7 @@ document.write('                              ... </div><div style="color:white;
 document.write('                               ,..,</div><div style="color:white;display:inline;">@@@@@@</div><div style="color:red;display:inline;">  </div><div style="color:white;display:inline;">&@@@@@@%     *@@@@%@@@@@@@.@@@@@ @@@%@   @@@@@@@@@</div><div style="color:red;display:inline;">     \n');
 document.write('                                .. .</div><div style="color:white;display:inline;">@@@@@@@ @@@@@@                                  *@@@@@@(</div><div style="color:red;display:inline;">      \n');
 document.write('                                  .. </div><div style="color:white;display:inline;">@@@@@@@@@@@@@</div><div style="color:red;display:inline;"> ./                               .</div><div style="color:white;display:inline;">@@@@@@</div><div style="color:red;display:inline;">       \n');
-document.write('                                    .**/</div><div style="color:white;display:inline;">@@@@@@@@@@,@@@@@@@@*              .@@@</div><div style="color:red;display:inline;">.    </div><div style="color:white;display:inline;">@@@@@@@@</div><div style="color:red;display:inline;">       \n');
+document.write('                                    .* /</div><div style="color:white;display:inline;">@@@@@@@@@@,@@@@@@@@*              .@@@</div><div style="color:red;display:inline;">.    </div><div style="color:white;display:inline;">@@@@@@@@</div><div style="color:red;display:inline;">       \n');
 document.write('                                     ,***..*</div><div style="color:white;display:inline;">@@@@@</div><div style="color:red;display:inline;">    </div><div style="color:white;display:inline;">#@ @@@@@@@@@@@@@@@@@#@@#@    *.  @@@@</div><div style="color:red;display:inline;">       \n');
 document.write('                                       *****</div><div style="color:white;display:inline;">@@@@</div><div style="color:red;display:inline;">%*****,           .....*</div><div style="color:white;display:inline;">@@@</div><div  style="color:red;display:inline;">*   .*,    </div><div style="color:white;display:inline;">@@@&       \n');
 document.write('                                         </div><div style="color:red;display:inline;">***</div><div style="color:white;display:inline;">@@@</div><div style="color:red;display:inline;"> . . .......... ..******, .... .       </div><div style="color:white;display:inline;">@@@</div><div style="color:red;display:inline;">      \n');
@@ -46,18 +46,45 @@ document.write('                                          &</div><div style="col
 document.write('                                           </div><div style="color:white;display:inline;">@</div><div style="color:red;display:inline;">,  .*****..,****.,***   *******                    \n');
 document.write('                                                  ********.***  *  ,* *.*.                      \n');
 document.write('                                                       ****** **  * **                    \n</div></div style="white-space: pre;"></br>');
-                                                            
+*/                                                            
   
-//document.write('</br><pre><div class="center">  ██████  ▄████▄   ▄▄▄       ██▀███  ▓█████  ▄████▄   ██▀███   ▒█████   █     █\n');
-//document.write('▒██    ▒ ▒██▀ ▀█  ▒████▄    ▓██   ██▒▓█   ▀ ▒██▀ ▀█  ▓██ ▒ ██▒▒██▒  ██▒▓█░ █ ░█\n');
-//document.write('░ ▓██▄   ▒▓█    ▄ ▒██  ▀█▄  ▓██ ░▄█ ▒▒███   ▒▓█    ▄ ▓██ ░▄█ ▒▒██░  ██▒▒█░ █ ░█\n');
-//document.write('  ▒   ██▒▒▓▓▄ ▄██▒░██▄▄▄▄██ ▒██▀▀█▄  ▒▓█  ▄ ▒▓▓▄ ▄██▒▒██▀▀█▄  ▒██   ██░░█░ █ ░█\n');
-//document.write('▒██████▒▒▒ ▓███▀ ░ ▓█   ▓██▒░██▓ ▒██▒░▒████▒▒ ▓███▀ ░░██▓ ▒██▒░ ████▓▒░░░██▒██▓\n');
-//document.write('▒ ▒▓▒ ▒ ░░ ░▒ ▒  ░ ▒▒   ▓▒█░░ ▒▓ ░▒▓░░░ ▒░ ░░ ░▒ ▒  ░░ ▒▓ ░▒▓░░ ▒░▒░▒░ ░ ▓░▒ ▒ \n');
-//document.write('░ ░▒  ░ ░  ░  ▒     ▒   ▒▒ ░  ░▒ ░ ▒░ ░ ░  ░  ░  ▒     ░▒ ░ ▒░  ░ ▒ ▒░   ▒ ░ ░ \n');
-//document.write('░  ░  ░  ░          ░   ▒     ░░   ░    ░   ░          ░░   ░ ░ ░ ░ ▒    ░   ░ \n');
-//document.write('      ░  ░ ░            ░  ░   ░        ░  ░░ ░         ░         ░ ░      ░   \n');
-//document.write('         ░                                  ░                                  \n</div></pre>');
+document.write('                                           --*                        ')
+document.write('                                     :....:::::+%####@@%                     ')
+document.write('                         =:::::::--------------+@#####%@%%                   ')
+document.write('            #%*+         +---------------------+@%#######@%#                 ')
+document.write('          %%###%%########+---------------------+@%%%######%@%#               ')
+document.write('          #%%##@@%%######+=====**##===========-+@%%%%%%%%%##%@%#             ')
+document.write('          #@%##@@%%%%%###*====@@%##============+@%%%%%%%%%%%%##%++           ')
+document.write('          *@%%#@@%%%%%%%%*====@@###============+@%%%%%%%%%%%%%#%@@#          ')
+document.write('          *@%%#@@%%%%%%%%*====@@%%#============+@%%%%%%%%%%%%%#%@@%          ')
+document.write('          *@%%#@@@%%%%%%%*====@@%%#============+@%%%%%%%%%%%%%#%@@%          ')
+document.write('          *@%%#@@@@%%%%%%*====@@%%%+===========+@%%%%%%%%%%%%%#%@@%          ')
+document.write('          *@%%#@@@@@@%%%%*====@@%%%+===========+@%%%%%%%%%%%%%#%%@@          ')
+document.write('          *@%%#@@@@@@@@@%*====@@%%%+===========+@%%%%%%%%%%%%%#%%@@          ')
+document.write('          *@@%#@@@@@@@@@@*====@@#*+============%@%%%%%%%%%%%%%#%#@@          ')
+document.write('          *@@%#@@@@@@@@@@*+===========+*%@@@@@@@%%%%%%%%%%%%%%#%*@@          ')
+document.write('          *@@%#@@@@@@@@@@#*##%@@@@@@%##%%%%%%%%%%%%%%%%%%%%%%%#%*@@          ')
+document.write('          *@@%#%@@@@@@%#%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%+@@          ')
+document.write('          *@@%%%%%%%%%%%%%%%%%%%%%%%%%%%#############@%%%%%%%%#%+%@          ')
+document.write('          *@@@%%%%%%%%%%%%%##########################%@%%%%%%%#%+%@          ')
+document.write('          *@@@@@%%%%##################################@%%%%%%%#%+%@          ')
+document.write('          *@@@@@@%%%##################################@%%%%%%%#%=%@          ')
+document.write('          *@@@@@@@@%##################################@%%%%%%%#%=#@          ')
+document.write('          *@@@@@@@@%##################################@%%%%%%%#%=#@          ')
+document.write('          *@@@@@@@@%##################################@%%%%%%%#%=#@          ')
+document.write('          *@@@@@@@@%##################################@%%%%%%%#%=#@          ')
+document.write('          *@@@@@@@@%##################################@%%%%%%%#%=%@          ')
+document.write('          *@@@@@@@@%#################################%@%%%%%%%#%=%@          ')
+document.write('          #@@@@@@@@%#################################@@%%%%%%%#%=%@          ')
+document.write('          #@@@@@@@@%###############################%@@%%%%%%%%#%+%@          ')
+document.write('          #@@@@@@@@%##################@@@@@@@@%%%%%%%%%%%%%%%%#%+@@          ')
+document.write('          %@@@@@@@@@####%%%@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@          ')
+document.write('          %@@@@@@@@@@@@%%@%@%%%%%%%%%%%%%%%%@@@@@@@@@@@%%########%@          ')
+document.write('          %@@@@@@%%%%%%%%%%%%%%@@@@@@@@@@@%#*****+==-:.         ')             
+document.write('          @@@@%%@@@@@@@@@@@@@@@@%%#*+++++=--       ')                          
+document.write('          @@@@@@@@@@@@%@@%#*+-        ')                                       
+document.write('             :--')
+
 }
 </script>
 
