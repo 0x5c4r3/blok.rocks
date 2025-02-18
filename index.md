@@ -48,7 +48,6 @@ document.write('                                                  ********.***  
 document.write('                                                       ****** **  * **                    \n</div></div style="white-space: pre;"></br>');
 */                                                            
   
-document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">                                           --*                        </div>\n')
 document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">                                     :....:::::+%####@@%                     </div>\n')
 document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">                         =:::::::--------------+@#####%@%%                   </div>\n')
 document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">            #%*+         +---------------------+@%#######@%#                 </div>\n')
@@ -69,7 +68,6 @@ document.write('<div style="white-space: pre;"><div class="center" style="color:
 document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">          *@@@@@@@@%##################################@%%%%%%%#%=#@          </div>\n')
 document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">          #@@@@@@@@%#################################@@%%%%%%%#%=%@          </div>\n')
 document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">          #@@@@@@@@%###############################%@@%%%%%%%%#%+%@          </div>\n')
-document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">          #@@@@@@@@%##################@@@@@@@@%%%%%%%%%%%%%%%%#%+@@          </div>\n')
 document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">          %@@@@@@@@@####%%%@@@@@@@@%%%%%%%%%%%%%%%%%%%%%%%@@@@@@@@@          </div>\n')
 document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">          %@@@@@@@@@@@@%%@%@%%%%%%%%%%%%%%%%@@@@@@@@@@@%%########%@          </div>\n')
 document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">          %@@@@@@%%%%%%%%%%%%%%@@@@@@@@@@@%#*****+==-:.         </div>\n')             
