@@ -21,7 +21,10 @@ document.write('<div style="white-space: pre; text-align: center;"><div class="c
   // DESKTOP
 
 document.write('<p style="display: flex;align-items: center;justify-content: center;">')
-document.write('<img src="/img/bust.png" alt="Smiley face image" style="width:40%;height:40%;"><span style="padding-left: 20px;">This is one line of text with image on the left side</span>')
+document.write('<img src="/img/bust.png" alt="Smiley face image" style="width:30%;height:30%;">')
+
+document.write('<span style="padding-left: 20px;">This is one line of text with image on the left side</span>')
+
 document.write('</p>')
                                                                                                     
 /*                                                                                                    
