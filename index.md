@@ -21,9 +21,10 @@ document.write('<div style="white-space: pre; text-align: center;"><div class="c
   // DESKTOP
 
 document.write('<p style="display: flex;align-items: center;justify-content: center;">')
-document.write('<img src="https://raw.githubusercontent.com/0x5c4r3/scare.rocks/refs/heads/master/img/1.gif" alt="Human" style="width:30%;height:30%;">')
 
-document.write('<span style="padding-left: 20px;">This is one line of text with image on the left side</span>')
+document.write('<span style="padding-right: 20px;">This is one line of text with image on the left side</span>')
+document.write('<img src="https://raw.githubusercontent.com/0x5c4r3/scare.rocks/refs/heads/master/img/1.gif" alt="Human" style="width:30%;height:30%;">')
+    
 document.write('</p>')
 }
 </script>
