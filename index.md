@@ -21,7 +21,7 @@ document.write('<div style="white-space: pre; text-align: center;"><div class="c
   // DESKTOP
 
 document.write('<p style="display: flex;align-items: center;justify-content: center;">')
-document.write('<img src=https://raw.githubusercontent.com/0x5c4r3/scare.rocks/refs/heads/master/img/glitch1.gif alt="MickyD3" style="width:40%;height:40%;">')
+document.write('<img src="https://raw.githubusercontent.com/0x5c4r3/scare.rocks/refs/heads/master/img/glitch1.gif" alt="MickyD3" style="width:40%;height:40%;">')
 document.write('<img src=https://github.com/0x5c4r3/0x5c4r3/blob/main/code.gif?raw=true alt=code style="margin-bottom: 5px;"  width="100"/>')
   
 #document.write('<img src="/img/bust.png" alt="MickyD" style="width:10%;height:10%;">')
