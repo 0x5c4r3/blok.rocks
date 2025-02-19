@@ -19,11 +19,10 @@ document.write('<div style="white-space: pre; text-align: center;"><div class="c
   
 }else{
   // DESKTOP
-  
-document.write('<img src="/img/bust.png" style="width:40%;height:40%;display:block;float:left;" alt="bustz">')
 
-
-    
+document.write('<p style="display: flex;">')
+document.write('<img src="/img/bust.png" alt="Smiley face image" style="width:40%;height:40%;"><span style="align-self: flex-end;">This is one line of text with image on the left side</span>')
+document.write('</p>')
                                                                                                     
 /*                                                                                                    
 document.write('<div style="white-space: pre;"><div class="center" style="color:red;display:inline;">                            *******                                                             *,\n');
