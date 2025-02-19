@@ -26,7 +26,9 @@ if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigat
 document.write('<a href="https://app.hackthebox.com/profile/144238" style="color:red;">HTB</a></br>');
 document.write('<a href="https://www.youtube.com/channel/UCcYc_cJZDhYXPm2hpM7ZqwA" style="color:red;">YouTube</a></br>');
 }else{
+
 // DESKTOP
+/*
 document.write('<div class="center" style="color:white;display:inline;">aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</br>');
 document.write('88888888888888888888888888888888888888888888888888888</br>');
 document.write('8888//////////////88888888888888888888888888888888888</br>');
@@ -49,7 +51,9 @@ document.write('8888888888888///////// <a href="https://github.com/0x5c4r3" styl
 document.write('8888888888888///////// <a href="https://www.linkedin.com/in/matteo-peruzzi-84b701188" style="color:red;">Linkedin</a> /////////8888888888888</br>');
 document.write('88888888888888888888888888a88888888888888888888888888</br>');
 document.write('"""""""""""""""""""` `"""""""""` `"""""""""""""""""""</br></div>');
+*/
 }
+
 </script>
 </center>
 
