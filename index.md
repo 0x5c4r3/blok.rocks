@@ -19,7 +19,7 @@ document.write('<div style="white-space: pre; text-align: center;"><div class="c
   
 }else{
   // DESKTOP
-    document.write('<div style="white-space: pre; text-align: center;"><img src=/img/skull.jpg  width=100% height=auto ></div>')
+    document.write('<div style="white-space: pre; text-align: center;"><img src=/img/skull.jpg  width=100% height=auto ></div><div text-color: red; >your friendly neighborhood hacker</div>')
 }
 </script>
 
