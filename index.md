@@ -19,7 +19,7 @@ document.write('<div style="white-space: pre; text-align: center;"><div class="c
   
 }else{
   // DESKTOP
-    test123
+    document.write('<img style="white-space: pre; text-align: center;" src=/img/main_skull.jpg>')
 }
 </script>
 
