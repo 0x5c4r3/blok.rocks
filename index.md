@@ -15,7 +15,8 @@ permalink: /
   if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
   // MOBILE
 
-document.write('<div style="white-space: pre; text-align: center;"><div class="center" style="color:red;display:inline;text-align: center;"> Nah G you browsing from a mobile??</div>\n<div class="center" style="color:red;display:inline;text-align: center;">Fuck that, grab a laptop...</div></div>\n')
+#document.write('<div style="white-space: pre; text-align: center;"><div class="center" style="color:red;display:inline;text-align: center;"> Nah G you browsing from a mobile??</div>\n<div class="center" style="color:red;display:inline;text-align: center;">Fuck that, grab a laptop...</div></div>\n')
+    document.write('<div style="white-space: pre; text-align: center;"><img src=/img/skull.jpg  width=30% height=auto ></div>')
   
 }else{
   // DESKTOP
