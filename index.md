@@ -14,7 +14,7 @@ permalink: /
 <script>
   if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)){
   // MOBILE
-    document.write('<div style="white-space: pre; text-align: center;"><img src=/img/skull.jpg  width=30% height=auto ></div>')
+    document.write('<div style="white-space: pre; text-align: center;"><img src=/img/skull.jpg  width=70% height=auto ></div>')
   
 }else{
   // DESKTOP
