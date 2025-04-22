@@ -16,7 +16,6 @@ permalink: /whoami
 
 I'm 0x5c4r3 (scarecrow), an OSEP, CRTO, OSCP, OSWP and Senior Penetration Tester with an academic and working background in Information Technology and Cyber Security, smashing my head on the desk every day to learn how to break stuff and talk about it here.
 
-<br/>
 <center>
 <script>
   
@@ -25,10 +24,10 @@ if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigat
   document.write('<a href="https://twitter.com/iamscarecrow1" style="color:#ff33cc;">X</a></br>');
 document.write('<a href="https://app.hackthebox.com/profile/144238" style="color:#ff33cc;">HTB</a></br>');
 document.write('<a href="https://www.youtube.com/channel/UCcYc_cJZDhYXPm2hpM7ZqwA" style="color:#ff33cc;">YouTube</a></br>');
+
 }else{
 
 // DESKTOP
-
 <a href="https://twitter.com/iamscarecrow1" style="color:#ff33cc;">Twitter</a>
 <a href="https://app.hackthebox.com/profile/144238" style="color:#ff33cc;">HTB</a>
 <a href="https://www.youtube.com/channel/UCcYc_cJZDhYXPm2hpM7ZqwA" style="color:#ff33cc;">YouTube</a>
