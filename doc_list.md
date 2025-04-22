@@ -9,7 +9,7 @@ input:focus::placeholder {color: transparent}
 </style>
 
 <p style="display:inline;">The <div style="color:red;display:inline;">DOCS</div> are a list of notes, researches and relevant knowledge that I personally worked on that might help the community with engagements of various types.</p>
-<p>Please use this responsably, remember we are the good guys!</p>
+</br><p>Please use this responsably, remember we are the good guys!</p>
 &nbsp;
 <!-- Html Elements for Search -->
 <div id="search-container" style="text-align: center;" display="inline;">
