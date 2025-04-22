@@ -19,8 +19,7 @@ document.write('<div style="white-space: pre; text-align: center;"><div class="c
   
 }else{
   // DESKTOP
-    #document.write('<div style="white-space: pre; text-align: center;"><img src=/img/skull.jpg  width=40% height=auto ></div>')
-    document.write('<div style="white-space: pre; text-align: center;"><source media="(min-width: 30%)" srcset="/img/skull.jpg"></div>')
+    document.write('<div style="white-space: pre; text-align: center;"><img src=/img/skull.jpg  width=40% height=auto ></div>')
 }
 </script>
 
