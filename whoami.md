@@ -19,11 +19,11 @@ I'm 0x5c4r3 (scarecrow), an OSEP, CRTO, OSCP, OSWP and Senior Penetration Tester
 <center>
 <script>
 
-<a href="https://twitter.com/iamscarecrow1" style="color:#ff33cc;">Twitter</a>
-<a href="https://app.hackthebox.com/profile/144238" style="color:#ff33cc;">HTB</a>
-<a href="https://www.youtube.com/channel/UCcYc_cJZDhYXPm2hpM7ZqwA" style="color:#ff33cc;">YouTube</a>
-<a href="https://github.com/0x5c4r3" style="color:#ff33cc;">GitHub</a>
-<a href="https://www.linkedin.com/in/matteo-peruzzi-84b701188" style="color:#ff33cc;">Linkedin</a>
+document.write('<a href="https://twitter.com/iamscarecrow1" style="color:#ff33cc;">Twitter</a>')
+document.write('<a href="https://app.hackthebox.com/profile/144238" style="color:#ff33cc;">HTB</a>')
+document.write('<a href="https://www.youtube.com/channel/UCcYc_cJZDhYXPm2hpM7ZqwA" style="color:#ff33cc;">YouTube</a>')
+document.write('<a href="https://github.com/0x5c4r3" style="color:#ff33cc;">GitHub</a>')
+document.write('<a href="https://www.linkedin.com/in/matteo-peruzzi-84b701188" style="color:#ff33cc;">Linkedin</a>')
 
 </script>
 </center>
