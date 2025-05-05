@@ -18,14 +18,14 @@ permalink: /
 
 <script>
   // Character set to pick from
-  const chars = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*';
+  const chars = 'ALTUVWXYZabwxyz0156789!@#$%^&*":>?><}{][+_=-/*-';
 
   function getRandomChar() {
     const randomIndex = Math.floor(Math.random() * chars.length);
     return chars[randomIndex];
   }
 
-  function getRandomInterval(min = 50, max = 1000) {
+  function getRandomInterval(min = 50, max = 300) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
 
