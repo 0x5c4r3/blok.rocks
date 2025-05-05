@@ -17,6 +17,7 @@ permalink: /
 </script>
 
 <span id="changing-char">A</span>
+
 <script>
   // Characters to rotate through
   const chars = ['A', 'B', 'C', 'D', 'E', 'F', 'G'];
