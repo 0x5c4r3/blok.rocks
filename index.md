@@ -24,23 +24,27 @@ permalink: /
     return chars[randomIndex];
   }
 
-  function getRandomInterval(min = 50, max = 400) {
+  function getRandomInterval(min = 500, max = 2000) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
 
   function getRandomColor() {
-    const isRed = Math.random() < 0.5;
+    const choice = Math.random();
 
-    if (isRed) {
-      // Shades of red (RGB: high red, low green & blue)
-      const red = 200 + Math.floor(Math.random() * 56);  // 200–255
-      const green = Math.floor(Math.random() * 50);      // 0–49
-      const blue = Math.floor(Math.random() * 50);       // 0–49
+    if (choice < 0.33) {
+      // Red shade: High red, low green and blue
+      const red = 200 + Math.floor(Math.random() * 56);   // 200–255
+      const green = Math.floor(Math.random() * 30);       // 0–29
+      const blue = Math.floor(Math.random() * 30);        // 0–29
       return `rgb(${red},${green},${blue})`;
+    } else if (choice < 0.66) {
+      // Grey shade: R=G=B
+      const grey = 100 + Math.floor(Math.random() * 100); // 100–199
+      return `rgb(${grey},${grey},${grey})`;
     } else {
-      // Shades of white (RGB: all values high and close to each other)
-      const base = 220 + Math.floor(Math.random() * 36); // 220–255
-      return `rgb(${base},${base},${base})`;
+      // White shade: R=G=B, but very high
+      const white = 220 + Math.floor(Math.random() * 36); // 220–255
+      return `rgb(${white},${white},${white})`;
     }
   }
 
@@ -48,15 +52,12 @@ permalink: /
     const span = document.getElementById('changing-char');
     if (!span) return;
 
-    // Change character and color
     span.textContent = getRandomChar();
     span.style.color = getRandomColor();
 
-    // Schedule next change
     const nextInterval = getRandomInterval();
     setTimeout(changeCharRandomly, nextInterval);
   }
 
-  // Start the loop
   changeCharRandomly();
 </script>
