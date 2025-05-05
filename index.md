@@ -10,6 +10,45 @@ permalink: /
   margin-right: auto;
   width: 100%;
 }
+    .glitch-char {
+    display: inline-block;
+    position: relative;
+    font-family: monospace;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+  }
+
+  .glitch-char.glitching::before,
+  .glitch-char.glitching::after {
+    content: attr(data-char);
+    position: absolute;
+    left: 0;
+    color: red;
+    clip: rect(0, 0, 0, 0);
+  }
+
+  .glitch-char.glitching::before {
+    animation: glitchTop 0.3s linear infinite;
+    color: #0ff;
+  }
+
+  .glitch-char.glitching::after {
+    animation: glitchBottom 0.3s linear infinite;
+    color: #f0f;
+  }
+
+  @keyframes glitchTop {
+    0% { clip: rect(0, 9999px, 0, 0); transform: translate(-2px, -2px); }
+    50% { clip: rect(0, 9999px, 100%, 0); transform: translate(2px, -1px); }
+    100% { clip: rect(0, 9999px, 0, 0); transform: translate(-1px, 2px); }
+  }
+
+  @keyframes glitchBottom {
+    0% { clip: rect(100%, 9999px, 0, 0); transform: translate(2px, 2px); }
+    50% { clip: rect(0, 9999px, 100%, 0); transform: translate(-2px, 1px); }
+    100% { clip: rect(100%, 9999px, 0, 0); transform: translate(1px, -2px); }
+  }
 </style>
 
 <script>
@@ -63,54 +102,8 @@ permalink: /
   });
 </script>
 
-
-
-
-
-<style>
-  //<span class="glitch-char">A</span>
-  .glitch-char {
-    display: inline-block;
-    position: relative;
-    font-family: monospace;
-    font-weight: bold;
-    color: white;
-    background-color: black;
-  }
-
-  .glitch-char.glitching::before,
-  .glitch-char.glitching::after {
-    content: attr(data-char);
-    position: absolute;
-    left: 0;
-    color: red;
-    clip: rect(0, 0, 0, 0);
-  }
-
-  .glitch-char.glitching::before {
-    animation: glitchTop 0.3s linear infinite;
-    color: #0ff;
-  }
-
-  .glitch-char.glitching::after {
-    animation: glitchBottom 0.3s linear infinite;
-    color: #f0f;
-  }
-
-  @keyframes glitchTop {
-    0% { clip: rect(0, 9999px, 0, 0); transform: translate(-2px, -2px); }
-    50% { clip: rect(0, 9999px, 100%, 0); transform: translate(2px, -1px); }
-    100% { clip: rect(0, 9999px, 0, 0); transform: translate(-1px, 2px); }
-  }
-
-  @keyframes glitchBottom {
-    0% { clip: rect(100%, 9999px, 0, 0); transform: translate(2px, 2px); }
-    50% { clip: rect(0, 9999px, 100%, 0); transform: translate(-2px, 1px); }
-    100% { clip: rect(100%, 9999px, 0, 0); transform: translate(1px, -2px); }
-  }
-</style>
-
 <script>
+  //<span class="glitch-char">A</span>
   document.addEventListener("DOMContentLoaded", function () {
     const glitchChars = document.querySelectorAll('.glitch-char');
 
