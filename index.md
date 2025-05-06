@@ -25,7 +25,7 @@ permalink: /
     return chars[randomIndex];
   }
 
-  function getRandomInterval(min = 10, max = 500) {
+  function getRandomInterval(min = 1, max = 500) {
     return Math.floor(Math.random() * (max - min + 1)) + min;
   }
 
